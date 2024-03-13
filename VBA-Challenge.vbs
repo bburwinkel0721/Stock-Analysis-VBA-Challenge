@@ -118,4 +118,3 @@ Sub stockAnalysis()
     Next ws
     
 End Sub
-}
