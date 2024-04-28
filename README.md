@@ -1,4 +1,4 @@
-# VBA-Challenge
+# Stock-Analysis-VBA-Challenge
 ## Project and Tasks
 - Created a script that loops through all the stocks for each quarter and outputs the following information:
   - The ticker symbol
